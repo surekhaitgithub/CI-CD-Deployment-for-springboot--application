@@ -1,1 +1,1 @@
-# CI-CD-Deployment-for-springboot--application
+# CI-CD-Deployment-for-springboot-application
